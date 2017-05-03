@@ -20,7 +20,8 @@ Reproduction is very clean; I have not run into any typos, although there must b
 JoK: Found for instance:الأمام instead of الإمام
 حرث instead of حارث
 وثلث ماية
-PageV03P087 -> wrong page break
+PageV03P087 | PageV10P083
+ -> wrong page break
 entry 185 او instead of ابو
 
 + many similar mistakes some as well in the headlines -> I did not correct them
@@ -33,8 +34,8 @@ p
 
 JoK:
 
-THe work is secmented into two parts: The first one until the middle of volume 5 is not in alphabetical order. The second part starting afterwards is in alphabetical order. The first part took a lot of time, as is wasn't effectivly possible to use regular expressions and the formating was very messy, in the second part most entries are tagged correctly, but not a 100%.
-Follwing I made an overview of the volumes I worked on
+THe work is secmented into two parts: The first one until the middle of volume 5 is not in alphabetical order. The second part starting afterwards is in alphabetical order. The first part took a lot of time, as is wasn't possible to use regular expressions effectivly and the formating was very messy, in the second part most entries are tagged correctly, but not a 100%.
+Following I made an overview of the volumes I worked on
 
 1V: 238/248 of names were marked -> all found
 2V: (249 - 854) 357/606 -> all found
@@ -44,11 +45,14 @@ Follwing I made an overview of the volumes I worked on
 new part (entries start from number 1 again:
 (1-87) -> all found
 6V: (87/599) (513/512) -> one entry too much - did some probes and the pdf and the tagged entries seemed to fit well overall
-V7:(601-1062)(463/461)-> one entry to much - evrything else like same as V6
+V7:(601-1062)(463/461)-> one entry to much - everything else same as V6
 V8:(1063 - 1568) (506/505)-> one entry too much.
 second half of the text checked in detail, in the first half there seemed to be very few misstakes only, so I just probed
 V9:(1569-2113) (554/554)
-as I found the correct number of entries I thought the quality would be good but in fact it was very messy - corrected quite some enties and headlines. Until page 238 it should be mostly alright now.
+as I found the correct number of entries I thought the quality would be good but in fact it was very messy - corrected quite some entries and headlines.
+have gone through it (in detail from page238), but now there are 580 entries marked 26 too much -> needs revision
+V10:(2114- 2642) (452/528)
+bis 240 / Zeile77438
 
 About the first part:
 With regular expression I wrote everything can be found but -> entries that are
