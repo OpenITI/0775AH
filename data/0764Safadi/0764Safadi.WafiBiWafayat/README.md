@@ -44,15 +44,16 @@ Following I made an overview of the volumes I worked on
 5V: (1957-2353)(___ /396) 
 new part (entries start from number 1 again:
 (1-87) -> all found
-6V: (87/599) (513/512) -> one entry too much - did some probes and the pdf and the tagged entries seemed to fit well overall
+6V: (87-599) (513/512) -> one entry too much - did some probes and the pdf and the tagged entries seemed to fit well overall
 V7:(601-1062)(463/461)-> one entry to much - everything else same as V6
-V8:(1063 - 1568) (506/505)-> one entry too much.
+V8:(1063-1568) (506/505)-> one entry too much.
 second half of the text checked in detail, in the first half there seemed to be very few misstakes only, so I just probed
 V9:(1569-2113) (554/554)
 as I found the correct number of entries I thought the quality would be good but in fact it was very messy - corrected quite some entries and headlines.
 have gone through it (in detail from page238), but now there are 580 entries marked 26 too much -> needs revision
-V10:(2114- 2642) (452/528)
-bis 240 / Zeile77438
+V10:(2114-2642) (423/528) -> 5 entries too less, actually I have checked every single entry, but it seemed I missed out some.
+V11: (2643-3258) (615/615) -> exact number of entries marked.
+V12:(3209-3646) (390/437)
 
 About the first part:
 With regular expression I wrote everything can be found but -> entries that are
@@ -81,3 +82,6 @@ page 62 and 61 are missing therefore 6 biographies are not included
 entrz 1461 is missing
 
 JoK: stopped working on the text on the 07.04. after about 20 hours of work. I think it will take several more days or weeks to finish this text. It might be possible to use regex, but for me it was far too difficult, maybe everthing has to be done manualy.
+
+Link for pdfs:
+http://waqfeya.com/book.php?bid=886
