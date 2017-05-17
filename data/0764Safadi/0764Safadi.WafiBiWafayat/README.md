@@ -1,7 +1,7 @@
 # Please, answer the following questions about the text that you work on
 
 [[Last update Maxim: August 15, 2016]]
-[[Last Update Jonas: Maerz 15 2017]]
+[[Last Update Jonas: May 17, 2017]]
  - started to work on the text again (Jonas)
 
 Copy-paste these questions into the README.md file and answer them.
@@ -53,7 +53,9 @@ as I found the correct number of entries I thought the quality would be good but
 have gone through it (in detail from page238), but now there are 580 entries marked 26 too much -> needs revision
 V10:(2114-2642) (423/528) -> 5 entries too less, actually I have checked every single entry, but it seemed I missed out some.
 V11: (2643-3258) (615/615) -> exact number of entries marked.
-V12:(3209-3646) (390/437)
+V12:(3259-3646) (398/387) -> 11 entries too much / checked manualy so I dont really know why the difference is so high.
+V13:(3647-4254) (555/607)
+until 116 line 99003
 
 About the first part:
 With regular expression I wrote everything can be found but -> entries that are
