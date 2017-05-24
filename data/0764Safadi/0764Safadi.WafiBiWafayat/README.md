@@ -23,6 +23,7 @@ JoK: Found for instance:الأمام instead of الإمام
 PageV03P087 | PageV10P083
  -> wrong page break
 entry 185 او instead of ابو
+entry 3871 completly missing (headline and text)
 
 + many similar mistakes some as well in the headlines -> I did not correct them
 
@@ -55,7 +56,7 @@ V10:(2114-2642) (423/528) -> 5 entries too less, actually I have checked every s
 V11: (2643-3258) (615/615) -> exact number of entries marked.
 V12:(3259-3646) (398/387) -> 11 entries too much / checked manualy so I dont really know why the difference is so high.
 V13:(3647-4254) (555/607)
-until 116 line 99003
+until 248 
 
 About the first part:
 With regular expression I wrote everything can be found but -> entries that are
