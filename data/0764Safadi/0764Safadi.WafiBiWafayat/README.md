@@ -55,8 +55,8 @@ have gone through it (in detail from page238), but now there are 580 entries mar
 V10:(2114-2642) (423/528) -> 5 entries too less, actually I have checked every single entry, but it seemed I missed out some.
 V11: (2643-3258) (615/615) -> exact number of entries marked.
 V12:(3259-3646) (398/387) -> 11 entries too much / checked manualy so I dont really know why the difference is so high.
-V13:(3647-4254) (555/607)
-until 248 
+V13:(3647-4254) (607/607) -> exact number of entries marked
+V14:(4255-4575) (318/320) -> two entries too little
 
 About the first part:
 With regular expression I wrote everything can be found but -> entries that are
