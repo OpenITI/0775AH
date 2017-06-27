@@ -58,8 +58,8 @@ V12:(3259-3646) (398/387) -> 11 entries too much / checked manualy so I dont rea
 V13:(3647-4254) (607/607) -> exact number of entries marked
 V14:(4255-4575) (318/320) -> two missing
 V15: (4576-5234) (658/660) -> two missing
-V15 page 100 119737
-
+V16: (5235-5963)(727/728) -> one missing
+V17: page 103 / regex until 218
 
 
 About the first part:
