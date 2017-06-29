@@ -61,8 +61,12 @@ V15: (4576-5234) (658/660) -> two missing
 V16: (5235-5963)(727/728) -> one missing
 V17:(5964-6557)(591/593) -> two missing
 V18: (6558-7125) (772/567) -> five too much
-V19: bis Seite 65
-
+V19: (7126-7696) (572/570) -> two too much
+V20:  (1-322) (320/322) -> two missing
+V21: bis 195
+(
+~~)?(.+عليِ بن)(
+~~)?(.+)
 About the first part:
 With regular expression I wrote everything can be found but -> entries that are
 - wrongly not marked as new paragraph
