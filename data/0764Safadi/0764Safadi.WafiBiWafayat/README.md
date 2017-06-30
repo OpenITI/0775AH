@@ -63,10 +63,14 @@ V17:(5964-6557)(591/593) -> two missing
 V18: (6558-7125) (772/567) -> five too much
 V19: (7126-7696) (572/570) -> two too much
 V20:  (1-322) (320/322) -> two missing
-V21: bis 195
-(
-~~)?(.+عليِ بن)(
-~~)?(.+)
+V21: (1-317)(313-317) -> four missing
+V22: (1-373) (374/373)-> one too much
+V23: missing
+V24: pagination on page 167/68 is wrong, page 105-145 missing
+ 105 223 129 44 = 496
+bis 147
+V25: missing
+
 About the first part:
 With regular expression I wrote everything can be found but -> entries that are
 - wrongly not marked as new paragraph
