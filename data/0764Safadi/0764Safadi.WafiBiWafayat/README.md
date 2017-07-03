@@ -52,12 +52,24 @@ second half of the text checked in detail, in the first half there seemed to be 
 V9:(1569-2113) (554/554)
 as I found the correct number of entries I thought the quality would be good but in fact it was very messy - corrected quite some entries and headlines.
 have gone through it (in detail from page238), but now there are 580 entries marked 26 too much -> needs revision
-V10:(2114-2642) (423/528) -> 5 entries too less, actually I have checked every single entry, but it seemed I missed out some.
+V10:(2114-2642) (423/528) -> 5 entries too little, actually I have checked every single entry, but it seemed I missed out some.
 V11: (2643-3258) (615/615) -> exact number of entries marked.
 V12:(3259-3646) (398/387) -> 11 entries too much / checked manualy so I dont really know why the difference is so high.
 V13:(3647-4254) (607/607) -> exact number of entries marked
-V14:(4255-4575) (318/320) -> two entries too little
-V15: bis Seite 92
+V14:(4255-4575) (318/320) -> two missing
+V15: (4576-5234) (658/660) -> two missing
+V16: (5235-5963)(727/728) -> one missing
+V17:(5964-6557)(591/593) -> two missing
+V18: (6558-7125) (772/567) -> five too much
+V19: (7126-7696) (572/570) -> two too much
+V20:  (1-322) (320/322) -> two missing
+V21: (1-317)(313-317) -> four missing
+V22: (1-373) (374/373)-> one too much
+V23: missing
+V24: pagination on page 167/68 is wrong, page 105-145 missing
+ 105 223 129 44 = 496
+bis 147
+V25: missing
 
 About the first part:
 With regular expression I wrote everything can be found but -> entries that are
@@ -83,7 +95,8 @@ example:
 
 JoK: page 62-96 V1 are missing
 page 62 and 61 are missing therefore 6 biographies are not included
-entrz 1461 is missing
+entry 1461 is missing
+V17: page254 and parts of 255 missing
 
 JoK: stopped working on the text on the 07.04. after about 20 hours of work. I think it will take several more days or weeks to finish this text. It might be possible to use regex, but for me it was far too difficult, maybe everthing has to be done manualy.
 
