@@ -68,7 +68,7 @@ V22: (1-373) (374/373)-> one too much
 V23: missing
 V24: pagination on page 167/68 is wrong, page 105-145 missing
  105 223 129 44 = 496
-bis 147
+bis 195
 V25: missing
 
 About the first part:
