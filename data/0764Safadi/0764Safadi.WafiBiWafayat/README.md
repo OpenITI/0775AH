@@ -66,10 +66,11 @@ V20:  (1-322) (320/322) -> two missing
 V21: (1-317)(313-317) -> four missing
 V22: (1-373) (374/373)-> one too much
 V23: missing
-V24: pagination on page 167/68 is wrong, page 105-145 missing
- 105 223 129 44 = 496
-bis 195
+V24: (1-105) (1-223) (1-129) (1-44)  439/496 -> 57 missing (due to missing pages)
+pagination on page 167/68 is wrong, page 105-145 missing
 V25: missing
+V26: (1-53) (53/53) -> exact number of entries marked
+V27: bis S 48
 
 About the first part:
 With regular expression I wrote everything can be found but -> entries that are
