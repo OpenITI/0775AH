@@ -70,7 +70,7 @@ V24: (1-105) (1-223) (1-129) (1-44)  439/496 -> 57 missing (due to missing pages
 pagination on page 167/68 is wrong, page 105-145 missing
 V25: missing
 V26: (1-53) (53/53) -> exact number of entries marked
-V27: bis S 48
+V27: bis S 217
 
 About the first part:
 With regular expression I wrote everything can be found but -> entries that are
