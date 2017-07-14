@@ -1,8 +1,8 @@
 # Please, answer the following questions about the text that you work on
 
 [[Last update Maxim: August 15, 2016]]
-[[Last Update Jonas: May 17, 2017]]
- - started to work on the text again (Jonas)
+[[Last Update Jonas: July 14, 2017]] -> finished working on the text
+ 
 
 Copy-paste these questions into the README.md file and answer them.
 
@@ -35,11 +35,18 @@ p
 
 JoK:
 
-THe work is secmented into two parts: The first one until the middle of volume 5 is not in alphabetical order. The second part starting afterwards is in alphabetical order. The first part took a lot of time, as is wasn't possible to use regular expressions effectivly and the formating was very messy, in the second part most entries are tagged correctly, but not a 100%.
-Following I made an overview of the volumes I worked on
+The structure of the text is always:
+Letters -> ### |
+clusters of people with the same first names  -> ### || (sometimes there were more marked than in the PDF, but if they seemed to fit the logic anyways I didn't delete them.
+ألقاب -> ### ||
+### $ -> biographical entries
 
-1V: 238/248 of names were marked -> all found
-2V: (249 - 854) 357/606 -> all found
+The work is secmented into two parts: The first one until the middle of volume 5 is not in alphabetical order. The second part starting afterwards is in alphabetical order. The first part took a lot of time, as is wasn't possible to use regular expressions effectivly and the formating was very messy, in the second part most entries are tagged correctly, but not a 100% and in some Volumes all or a big number of entries were missing.
+
+Following I made an overview of the volumes I worked on. I always listed which entries were included and how many I marked of the total. There is always the possibility, that the number is correct because the number of missed out entries and additional ones are the same, but over all the quality should be good as in 90% of the cases I have gone through all of the entries manually. If not I wrote it down 
+
+1V: 238/248 of names were marked -> exact number of entries marked
+2V: (249 - 854) 357/606 -> exact number of entries marked
 3V:(855-1455) (65/600) -> 9 missing
 4V: (1456-1956)(493/500) -> 7 missing
 5V: (1957-2353)(___ /396) 
@@ -49,9 +56,7 @@ new part (entries start from number 1 again:
 V7:(601-1062)(463/461)-> one entry to much - everything else same as V6
 V8:(1063-1568) (506/505)-> one entry too much.
 second half of the text checked in detail, in the first half there seemed to be very few misstakes only, so I just probed
-V9:(1569-2113) (554/554)
-as I found the correct number of entries I thought the quality would be good but in fact it was very messy - corrected quite some entries and headlines.
-have gone through it (in detail from page238), but now there are 580 entries marked 26 too much -> needs revision
+V9:(1569-2113) (552/554)-> two too less
 V10:(2114-2642) (423/528) -> 5 entries too little, actually I have checked every single entry, but it seemed I missed out some.
 V11: (2643-3258) (615/615) -> exact number of entries marked.
 V12:(3259-3646) (398/387) -> 11 entries too much / checked manualy so I dont really know why the difference is so high.
@@ -60,7 +65,7 @@ V14:(4255-4575) (318/320) -> two missing
 V15: (4576-5234) (658/660) -> two missing
 V16: (5235-5963)(727/728) -> one missing
 V17:(5964-6557)(591/593) -> two missing
-V18: (6558-7125) (772/567) -> five too much
+V18: (6558-7125) (572/567) -> five too much
 V19: (7126-7696) (572/570) -> two too much
 V20:  (1-322) (320/322) -> two missing
 V21: (1-317)(313-317) -> four missing
@@ -74,34 +79,11 @@ V27: 1-483 489 / 483 -> six too much
 V28: (1-92)(92/92) -> exact number found
 V29:(1-232) (231/232) -> one missing
 
-About the first part:
-With regular expression I wrote everything can be found but -> entries that are
-- wrongly not marked as new paragraph
-- have a line break within the headline
-- have speeling mistakes
-- doesnt start at the beginning of the line
-
--some entries are found that are no headlines, mostly they begin with direct speech like
- قال او  سمع
-
--> all is due to unconsistancies in the text the amount of missing entries is ca 30% so I still have to check each entry on its own.
-
-
-Some headlines were marked in the markdown file but not in the PDF. Still they fit the logic of the headlines of the text
-
-example: 
-### | ابن كرام 
-### $ المجسم محمد بن  كرام
-
-
-(^# \|)|(#3)|\w \$ 
 
 JoK: page 62-96 V1 are missing
 page 62 and 61 are missing therefore 6 biographies are not included
 entry 1461 is missing
 V17: page254 and parts of 255 missing
-
-JoK: stopped working on the text on the 07.04. after about 20 hours of work. I think it will take several more days or weeks to finish this text. It might be possible to use regex, but for me it was far too difficult, maybe everthing has to be done manualy.
 
 Link for pdfs:
 http://waqfeya.com/book.php?bid=886
