@@ -1,12 +1,13 @@
 00#VERS#CLENGTH##: 3342655
 00#VERS#LENGTH###: 849586
 00#VERS#URI######: 0762MughaltayIbnQalij.IkmalTahdhib.Shamela0036515-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+80#VERS#BASED####: http://www.worldcat.org/oclc/46432148
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/46432148
+80#VERS#LINKS####: https://archive.org/details/FP63274
 90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
     use consistently)
 90#VERS#COMMENT##: the text was tagged before; no proper YML file yet.
     See, `README.md` for details.
+   NOTE OF THE REVIEWER (HRH): As the editor writes, the original manuscript is incomplete and does not include the parts for women’s biographies and Kunyas (See vol 12, page 394 in the PDF). 2- The numbers of name entries checked and corrected through Peter’s script.
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ISSUES###: HTML_TAGS
