@@ -1,8 +1,8 @@
 00#VERS#CLENGTH##: 228379
 00#VERS#LENGTH###: 54756
 00#VERS#URI######: 0764Safadi.NusratThair.Shamela0000514-ara1
-80#VERS#BASED####: http://www.worldcat.org/oclc/583168739
-80#VERS#COLLATED#: http://www.worldcat.org/oclc/583168739
+80#VERS#BASED####: NO_DATA_IN_METADATA
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771007283
 80#VERS#LINKS####: https://archive.org/details/dmhv5
 90#VERS#ANNOTATOR: Gowaart Van Den Bossche
 90#VERS#COMMENT##: Pagination is different from pdf, much longer pages,
@@ -19,8 +19,6 @@
     pdf are not included in the digital text. This gap is also present in
     the JK file (which appears to be identical to the Shamela file). I have
     left a note in the body text where this gap occurs.
-    NB: check lines of poetry that seem too short: line numbers 597, 1348, 2925,
-    4758, 5134, 5136, 5173
-    NB: check lines of poetry that seem too long: line numbers 3489
+   NOTE OF THE REVIEWER (HRH): NO changes made. 2. The author’s introduction is missing as well (PDF, page 39).
 90#VERS#DATE#####: 2020-06-23
-90#VERS#ISSUES###: PAGINATION, MISSING_PARTS
+90#VERS#ISSUES###: MISSING_PARTS
