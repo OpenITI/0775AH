@@ -6,18 +6,10 @@
 10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
-40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
-    followed by abbreviation for relation type between brackets (see
-    book_relations repo). Only include relations with older books. Separate
-    related books with semicolon.
+40#BOOK#RELATED##: 0742Mizzi.TahdhibKamal (COMM.Tahdhib)
 80#BOOK#EDITIONS#: permalink, permalink, permalink
 80#BOOK#LINKS####: permalink, permalink, permalink
 80#BOOK#MSS######: permalink, permalink, permalink
 80#BOOK#STUDIES##: permalink, permalink, permalink
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
-90#BOOK#COMMENT##: The text is a commentary on
-https:
-//github.com/OpenITI/0750AH/tree/master/data/0742Mizzi/0742Mizzi.TahdhibKamal
-    which is itself a commentary on Kamal by
-    https://github.com/OpenITI/0600AH/tree/master/data/0600CabdGhaniMuqaddasi
-    which does not exist in our corpus (See the editor’s introduction, page 31).
+90#BOOK#COMMENT##: 
