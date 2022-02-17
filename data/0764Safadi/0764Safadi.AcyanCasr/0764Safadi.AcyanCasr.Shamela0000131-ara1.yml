@@ -8,7 +8,7 @@
 90#VERS#COMMENT##: Annotated by Jonas Köpsel and Cornelia Neubauer,
     validated by Gowaart.  Text is fairly good quality, some minor issues
     noted by Jonas and Cornelia directly on GitHub readme file. Annotation
-    has been done very well, Gowaart only some minor cleaning up.
+    has been done very well, Gowaart only did some minor cleaning up.
     NOTE OF THE REVIEWER (HRH): All the header tags for Juz`s removed since they are
     not part of the structure, and the levelling moved up by one level. After the
     sections entitled “الألقاب والأنساب” the text returns to the rest of the name
@@ -17,5 +17,6 @@
     show this return (otherwise the name would be considered subsections of
     alqāb/ansāb sections, which is incorrect). PARATEXT added. 2- in readme file,
     the annotators report problems in pagination.
+  Further note: poetry now tagged by Gowaart.
 90#VERS#DATE#####: 2019-10-08
 90#VERS#ISSUES###: HTML_TAGS, PAGINATION
