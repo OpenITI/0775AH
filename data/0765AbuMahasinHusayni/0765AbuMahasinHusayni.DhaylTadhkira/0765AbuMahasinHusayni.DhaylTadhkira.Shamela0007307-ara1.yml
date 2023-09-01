@@ -4,9 +4,12 @@
 80#VERS#BASED####: http://www.worldcat.org/oclc/4769942786
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/4769942786
 80#VERS#LINKS####: https://download-islamic-religion-pdf-
-    ebooks.com/7802-free-book
+        ebooks.com/7802-free-book
 90#VERS#ANNOTATOR: SP Loynes
 90#VERS#COMMENT##: Good edition of what is presumably what remains of
-    the work. Pagination is inaccurate.
+        the work. Pagination is inaccurate.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-06-29
-90#VERS#ISSUES###: PAGINATION, EDITORIAL_SECTIONS
+90#VERS#ISSUES###: PAGINATION, EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION

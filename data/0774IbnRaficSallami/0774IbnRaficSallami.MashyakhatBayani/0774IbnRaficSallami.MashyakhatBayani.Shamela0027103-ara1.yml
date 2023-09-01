@@ -6,5 +6,8 @@
 80#VERS#LINKS####: https://ebook.univeyes.com/39515/pdf-مشيخة-المسند-من-محمد-بن-إبراهيم-البياني-المعروف-بابن-إمام-الصخرة-ت-العجمي-ط-البشائر
 90#VERS#ANNOTATOR: SP Loynes
 90#VERS#COMMENT##: Good digital edition conforms to the printed edition.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-07-03
-90#VERS#ISSUES###: PAGINATION, EDITORIAL_SECTIONS
+90#VERS#ISSUES###: PAGINATION, EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION

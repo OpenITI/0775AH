@@ -6,9 +6,12 @@
 80#VERS#LINKS####: https://waqfeya.net/book.php?bid=10887
 90#VERS#ANNOTATOR: SPL (CnC)
 90#VERS#COMMENT##: OCRed through Kraken:
-    * segmentation model: DEFAULT
-    * OCR model: arabPers-WithDiffTypefaces.mlmodel The page is out -1 on the
-    PDF. Qawaids are generally in seperate sections delineated by an annotated
-    header.
+        * segmentation model: DEFAULT
+        * OCR model: arabPers-WithDiffTypefaces.mlmodel The page is out -1 on the
+        PDF. Qawaids are generally in seperate sections delineated by an annotated
+        header.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2021-03-16
-90#VERS#ISSUES###: PAGINATION, UNCORRECTED_OCR
+90#VERS#ISSUES###: PAGINATION, UNCORRECTED_OCR, PRIMARY_VERSION, CLEANED_VERSION
