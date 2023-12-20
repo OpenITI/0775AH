@@ -1,14 +1,10 @@
 00#VERS#CLENGTH##: 161371
 00#VERS#LENGTH###: 39096
 00#VERS#URI######: 0764Safadi.ShucurBiCur.Shamela0006939-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#BASED####: https://search.worldcat.org/en/title/236028264
+80#VERS#COLLATED#: https://search.worldcat.org/en/title/236028264
+80#VERS#LINKS####: https://archive.org/details/1519pdf_201912
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: The Mustadrak (page 244 onwards) is provided by the editor. It should be split off. I raised an issue for it.
+90#VERS#DATE#####: 2023-12-20
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION
