@@ -13,5 +13,6 @@
 30#AUTH#DIED###AH: 0774-SHC-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q369690
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI3: "ʿImād al-Dīn Ismāʿīl b. ʿUmar Ibn Kathīr was born around 701/1301 in the town of Buṣrā, on the outskirts of Damascus": https://referenceworks.brillonline.com/entries/encyclopaedia-of-islam-3/ibn-kathir-imad-al-din-COM_30853?s.num=0&s.f.s2_parent=s.f.book.encyclopaedia-of-islam-3&s.q=ibn+kathir
